@@ -1,0 +1,8 @@
+config.js
+node_modules/
+botAssoDev.sublime-project
+botAssoDev.sublime-workspace
+kill.bat
+start.bat
+package.json
+package-lock.json
